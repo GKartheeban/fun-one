@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 have a nice day
+=======
+admin aojdf
+>>>>>>> main_2
 =======
 admin aojdf
 >>>>>>> main_2
